@@ -1,0 +1,58 @@
+.spisok,.spisok1,.spisok2,.spisok3,.spisok4,.spisok5,.spisok6,.spisok7,.spisok8{
+padding: 10px;
+margin: 10px ;
+font-weight: bold;
+border-radius:25px;
+
+}
+.spisok1:hover{
+    text-decoration: none; 
+    color: #FFFAC0; 
+    background: #AB4A9C;
+    
+}
+.spisok2:hover{
+    text-decoration: none; 
+    color: #d29121; 
+    background: #d00bb2;
+}
+.spisok3:hover{
+    text-decoration: none; 
+    color: #0dee9f; 
+    background: #6a24b5;
+}
+.spisok4:hover{
+    text-decoration: none; 
+    color: #45a3e6; 
+    background: #0db561;
+}
+.spisok5:hover{
+    text-decoration: none; 
+    color: #c2521a; 
+    background: #16d032;
+}
+.spisok6:hover{
+    text-decoration: none; 
+    color: #212021; 
+    background: #dd96d2;
+}
+.spisok7:hover{
+    text-decoration: none; 
+    color: #3ad214; 
+    background: #f80a2e;
+}
+.spisok8:hover{
+    text-decoration: none; 
+    color: #c4bfbd; 
+    background: #131bea;
+}
+
+
+
+
+
+
+
+
+
+
